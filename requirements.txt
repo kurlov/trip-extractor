@@ -1,0 +1,2 @@
+geographiclib==1.49
+geopy==1.17.0
